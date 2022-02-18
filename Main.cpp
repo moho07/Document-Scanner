@@ -110,7 +110,7 @@ Mat ScanDocument()
 
 int main()
 {
-	string path("img.jpg");
+	string path("Folder/img.jpg");
 
 	frame = imread(path);
 	
